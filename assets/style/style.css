@@ -9,6 +9,10 @@
     margin: 0 auto;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .link{
     display: inline-block;
     color: #fff;
