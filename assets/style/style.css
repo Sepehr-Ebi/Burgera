@@ -524,3 +524,24 @@ padding-top:50px ;
     padding-left: 20px;
 }
 /* end footer */
+
+/* start go top link */
+.page-up{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.page-up svg{
+    width: 25px;
+}
+/* end go top link */
